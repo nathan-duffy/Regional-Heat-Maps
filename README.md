@@ -1,4 +1,4 @@
-## Heat-Map-Visualization
+## Regional Heat Map
 
 
 **Overview:**
