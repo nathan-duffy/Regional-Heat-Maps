@@ -1,5 +1,6 @@
 ## Regional Heat Maps
 
+Check out heat_maps.pdf to find the content.
 
 **Overview:**
 
